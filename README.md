@@ -31,8 +31,8 @@ Aplikasi ini juga dilengkapi dengan fitur prioritas (Segera, Nanti, Bebas) untuk
 
 ## 📸 Screenshot Aplikasi
 
-![Screenshot 1](./assets/expo1.jpeg)
-![Screenshot 2](./assets/expo2.jpeg)
+![Screenshot 1](expo1.jpeg)
+![Screenshot 2](expo2.jpeg)
 
 ---
 
